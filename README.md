@@ -2,7 +2,7 @@
 
 # Use
 - ubuntu 22.04
-- python test.py
+- python create_rknn.py
 - create yolov5s.rknn
 - debain 10 in rk3568
 - https://github.com/rockchip-linux/rknpu2/blob/master/runtime/RK356X/Linux/librknn_api/aarch64/librknnrt.so
